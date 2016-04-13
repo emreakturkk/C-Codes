@@ -1,2 +1,0 @@
-# C-codes
-* Code::Blocks
