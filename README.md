@@ -1,2 +1,2 @@
 # C-codes
-* Code::Block
+* Code::Blocks
