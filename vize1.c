@@ -27,16 +27,3 @@ void findGreaterValues( int param[], int size, int value )
     }
     printf("%d ADET DEGER %d 'DAN BUYUKTUR\n", sayi, value);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
