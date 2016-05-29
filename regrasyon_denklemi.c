@@ -1,3 +1,14 @@
+/* ******************************************************
+ *                                                      *
+ *            Author: Emre AKTÜRK                       *
+ *                                                      *
+ *            Mail: info@emreakturk.com                 *
+ *                                                      *
+ *            Compiler: gcc                             *
+ *                                                      *
+ * ******************************************************
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
