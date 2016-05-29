@@ -107,6 +107,7 @@ float ro(int array1[], int array2[], int value, float sx, float sy)
     }
     ortx = top/value;
 
+    top = 0;
     //y ort
     for(i=0;i<value;i++)
     {
@@ -116,7 +117,7 @@ float ro(int array1[], int array2[], int value, float sx, float sy)
 
     for(i=0;i<value;i++)
     {
-        ro_deger = (array1[i]-ortx) * (array2[i]-orty);
+        ro_deger += (array1[i]-ortx) * (array2[i]-orty);
     }
 
     ro_deger /= (sx * sy);
@@ -137,6 +138,7 @@ void regrasyon_denk(int array1[], int array2[] ,float ro_d ,float sx, float sy, 
     }
     ortx = top/value;
 
+    top = 0;
     //y ort
     for(i=0;i<value;i++)
     {
@@ -145,5 +147,5 @@ void regrasyon_denk(int array1[], int array2[] ,float ro_d ,float sx, float sy, 
     orty = top/value;
 
     printf("REGRASYON DENKLEMI :\n");
-    printf("y = %.3fx - %.3f", (sy*ro_d)/sx, ((sy*ro_d*ortx)+sx*orty)/sx);
+    printf("y = %.3fx %.3f", (sy*ro_d)/sx, ((-1*(sy*ro_d*ortx))+((sx*orty)))/sx);
 }
