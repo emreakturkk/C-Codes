@@ -2,7 +2,7 @@
  *                                                      *
  *            Author: Emre AKTÜRK                       *
  *                                                      *
- *            Mail: info@emreakturk.com                 *
+ *            Mail: mail@emreakturk.com                 *
  *                                                      *
  *            Compiler: gcc                             *
  *                                                      *
