@@ -1,14 +1,4 @@
-/* ******************************************************
- *                                                      *
- *            Author: Emre AKTÜRK                       *
- *                                                      *
- *            Mail: mail@emreakturk.com                 *
- *                                                      *
- *            Compiler: gcc                             *
- *                                                      *
- * ******************************************************
- */
-
+// Verilen stringin kelime sayısını bulma
 #include <stdio.h>
 
 int main()

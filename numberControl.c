@@ -1,14 +1,4 @@
-/* ******************************************************
- *                                                      *
- *            Author: Emre AKTÜRK                       *
- *                                                      *
- *            Mail: mail@emreakturk.com                 *
- *                                                      *
- *            Compiler: gcc                             *
- *                                                      *
- * ******************************************************
- */
-
+// Girilen sayısının dizide var olup olmamasını kontol
 #include <stdio.h>
 #include <stdlib.h>
 

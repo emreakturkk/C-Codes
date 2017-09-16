@@ -1,14 +1,4 @@
-/* ******************************************************
- *                                                      *
- *            Author: Emre AKTÜRK                       *
- *                                                      *
- *            Mail: mail@emreakturk.com                 *
- *                                                      *
- *            Compiler: gcc                             *
- *                                                      *
- * ******************************************************
- */
-
+// Examples : emre akturk -> Emre AKTURK 
 #include <stdio.h>
 #include <stdlib.h>
 

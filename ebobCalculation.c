@@ -1,14 +1,4 @@
-/* ******************************************************
- *                                                      *
- *            Author: Emre AKTÜRK                       *
- *                                                      *
- *            Mail: mail@emreakturk.com                 *
- *                                                      *
- *            Compiler: gcc                             *
- *                                                      *
- * ******************************************************
- */
-
+// Ebob hesaplama
 #include <stdio.h>
 #include <stdlib.h>
 

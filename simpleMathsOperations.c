@@ -1,14 +1,4 @@
-/* ******************************************************
- *                                                      *
- *            Author: Emre AKTÜRK                       *
- *                                                      *
- *            Mail: mail@emreakturk.com                 *
- *                                                      *
- *            Compiler: gcc                             *
- *                                                      *
- * ******************************************************
- */
-
+// Basit dört islemler
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
